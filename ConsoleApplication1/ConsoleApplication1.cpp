@@ -11,6 +11,7 @@ int main()
 {
 	cout << "Hello world!" << endl;
 	cout << "Test" << endl;
+	cout << "salut" << endl;
 	system("PAUSE");
     return 0;
 }
